@@ -11,7 +11,7 @@ Tabbed Interface: Easy navigation between current location weather and city-base
 OpenWeatherMap API: For fetching real-time weather data.
 
 # License
-MIT License
+The project is licensed under the MIT License
 
 # Screenshots
 
@@ -23,4 +23,8 @@ MIT License
 
 # Search Weather
 ![pic1](https://github.com/user-attachments/assets/ff2565d1-43f2-46fa-adc9-308d95a90107)
+
+# Contact 
+For any queries or feedback, please contact:
+Email: sd.hameed79@gmail.com
 
