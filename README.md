@@ -1,5 +1,5 @@
 # Weather App
-The Weather App is a fully functional web application that provides weather information based on the user's location or a specified city. It features a seamless user experience with real-time data fetching and intuitive navigation.
+The Weather App is a fully functional web application that provides weather information based on the user's location or a specified city. Built using HTML, CSS and Javascript, It features a seamless user experience with real-time data fetching and intuitive navigation.
 
 # Features
 Geolocation-Based Weather: Automatically fetches and displays weather information based on the user's current location.
