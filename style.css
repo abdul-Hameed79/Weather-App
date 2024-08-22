@@ -14,15 +14,15 @@
 }
 
 body {
-    overflow-x: hidden;
-    overflow-y: hidden;
+    overflow: hidden;
+    background-image: radial-gradient(circle, #0d1467, #091967, #061d67, #052166, #052465, #072262, #08215f, #091f5c, #0a1856, #0b114f, #0c0a49, #0f0042);    background-attachment: fixed;
+    background-attachment: scroll;
 }
 
 .wrapper {
     width: 100vw;
     height: 100vh;
     color: var(--colorLight2);
-    background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%);
 }
 
 h1 {
